@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator in Python  
+Simple Calculator in Python  
 
 This project is a **basic calculator** written in Python. It performs:  
 - Addition  
@@ -8,7 +8,7 @@ This project is a **basic calculator** written in Python. It performs:
 
 ---
 
-## 🚀 How to Run  
+ How to Run  
 
 1. Make sure you have **Python 3** installed.  
 2. Clone this repository or download the code:  
